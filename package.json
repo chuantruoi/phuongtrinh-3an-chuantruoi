@@ -1,0 +1,22 @@
+{
+  "name": "phuongtrinh-3an-chuantruoi",
+  "version": "1.0.1",
+  "description": "chuantruoi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuantruoi/phuongtrinh-3an-chuantruoi.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "chuantruoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuantruoi/phuongtrinh-3an-chuantruoi/issues"
+  },
+  "homepage": "https://github.com/chuantruoi/phuongtrinh-3an-chuantruoi#readme"
+}
